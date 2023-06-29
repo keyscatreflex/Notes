@@ -1,0 +1,3 @@
+HTML is the structure of a website. Basically the building blocks of any web page.
+CSS tells the infotmation how to look, the weight of the font, the kind of font, the color, and other attributes that play a role in how the website looks.
+JavaScript is a programing laguage that tells the website how to resond to user interaction such as menu items, hovering over bottons.
