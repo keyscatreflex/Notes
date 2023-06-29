@@ -1,5 +1,22 @@
 HTML is the structure of a website. Basically the building blocks of any web page.
 CSS tells the infotmation how to look, the weight of the font, the kind of font, the color, and other attributes that play a role in how the website looks.
 JavaScript is a programing laguage that tells the website how to resond to user interaction such as menu items, hovering over bottons.
+Having a rough idea of how to use all 3 can help to fix problems with a component of a site.It can be a good way to diagnose what is causing a problem.
 
-Extra Data.
+The main reason to know HTML is bacause you can create a very basic structure,
+and then use another laguage to enhance the design and functionality.
+
+With a basic understanding of CSS,
+mk changes to the overal look and feel of the website.
+Think appearence.
+make changes to aesthetics of branding
+
+JS alters behavior of different elements on a page
+
+
+ChX Scratch
+
+My current thoughts on Front-end Vs. Back-end and how I currently understand it with 0 knowledge on what back-end actually is.
+Front-end dev is a web-page,site, service-- basically where trafic goes to access the domain of their choice.
+Back-end dev is a main component of the front end work however is used to contain information gathered from the front-end and having enough instruction with how to present that information. as well as where its stored.
+
