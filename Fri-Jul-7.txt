@@ -1,0 +1,18 @@
+About a week ago I took a break from TOP and looked into FCC
+I noticed how different the learning style was
+theres pros and cons to both and really wish there was a curriculumn to take advantage of both
+on one end TOP teaches conceptual learning with a broader idea of the material
+on the other end, FCC is more piece by piece information while executing code with an emphasis on learning as you go
+The two go about the learning process at completely different paces
+What I noticed is though TOP focuses on having broad concepts in place before placing any lessons on code
+the lessons it provides are essential for the path it takes
+by the time it involves any code into its lessons, I had already learned how to set up a coding environment,
+install git, rigister a github account, and picked up a bit of shell command.
+The difference in depth that TOP covered is incomparible
+FCC jumps strait to projects, and for me, it was just waht I needed as I had gotten bored of sitting in place just to keep reading
+FCC has you start its curriculum by completing projects
+It doesn't have you read more than a paragraph at a time as you practice the instruction on the screen.
+theres no environment to set up, no git or github, just code at its most basic level.
+as of the time of writing this entry, I have just completed 2 projects a free cat photo app as well as a cafe menu
+at this point I am glad to hace been able to jumo from one curriculumto another.
+Im ready to jump back on to TOP.
