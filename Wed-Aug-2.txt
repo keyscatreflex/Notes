@@ -1,0 +1,46 @@
+Intro to CSS
+
+Selectors
+
+Chaining Selectors can be done with tags, classes, and id(s)
+
+Use as many classes as needed; theres no limit to number of classes used.
+class=class another-class third-class final-class
+
+how to make a declairation based on class:
+.selector.selector.selector {
+    property:value
+}
+
+
+example
+
+index.html
+<body>
+    <div class=title header id=watermelon>
+        <h1 class=title improvise>Watermelon</h1>
+        <p> Hello World</p>
+    </div>
+</body>
+
+index.css
+
+
+.title{
+    font-family:'Helvetica', sans-sarif
+}
+
+nesting tags
+#watermelon p{
+    the space between #watermelon
+    and p refer to any p element
+    nested within the watermelon 
+    id
+}
+
+.title.improvise{
+    this chain referes to 
+    any number of classes to
+    add specificity; in this case,
+    <h1> is selected 
+}

@@ -1,0 +1,32 @@
+Legal color values
+
+
+colors can be declaired in css as HSL, HEX, or rgb values, by adding alpha values you can determine wither the colors opacity or transparency depending on the color profile desired.
+
+font-family, font-size, font-weight, text-align
+
+(this is jyst a guess but i think you can write the font code this way.)
+body{
+    font: 'Helvetica' 12px bold center;
+}
+
+IMAGE height and width
+
+declairing an image height and width reserves space on the page for the image to load into instead of the image's demensions pushing all other content to be placed where it fits if the image is latge.
+ECPLICITLY declairing height and width is a best practice.
+
+Adding CSS to html
+external or linked, internal or imbedded, and inline
+
+External most common, seperate file linked using the self closing <link> element nested within the head tag.
+<head>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+html will cascade css as such
+
+External (applied to any sheet linked to it by default when nothing else is specified)
+
+then if any page has any internal styling, all styling would be adopted from within the page.
+
+finally, all styling placed inline, would automatically be the first.
